@@ -1,0 +1,32 @@
+
+
+body {
+
+    color: black;
+    font-family: Verdana;
+  }
+
+  .jumbotron {;
+    background-size: 100% 100%;
+    opacity: 0.2;
+    text-align: center;
+    color: aliceblue;
+    /* text-shadow: 3px 3px 8px whitesmoke; */
+    
+  } 
+
+  .well {
+background-color: rgb(76, 81, 84);
+font-family: Verdana;
+font-weight: 90;
+font-size: smaller;
+
+
+  }
+
+  .panel {
+    background-color: aliceblue;
+    font-family: Verdana;
+    font-weight: 90;
+    
+      }
